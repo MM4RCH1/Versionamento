@@ -1,0 +1,14 @@
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\bin\Debug\net7.0\NewProjectCSharp.exe
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\bin\Debug\net7.0\NewProjectCSharp.deps.json
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\bin\Debug\net7.0\NewProjectCSharp.runtimeconfig.json
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\bin\Debug\net7.0\NewProjectCSharp.dll
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\bin\Debug\net7.0\NewProjectCSharp.pdb
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\obj\Debug\net7.0\NewProjectCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\obj\Debug\net7.0\NewProjectCSharp.AssemblyInfoInputs.cache
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\obj\Debug\net7.0\NewProjectCSharp.AssemblyInfo.cs
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\obj\Debug\net7.0\NewProjectCSharp.csproj.CoreCompileInputs.cache
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\obj\Debug\net7.0\NewProjectCSharp.dll
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\obj\Debug\net7.0\refint\NewProjectCSharp.dll
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\obj\Debug\net7.0\NewProjectCSharp.pdb
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\obj\Debug\net7.0\NewProjectCSharp.genruntimeconfig.cache
+C:\Users\mateus.santos\Desktop\Exer_dev_soft\NewProjectCSharp\obj\Debug\net7.0\ref\NewProjectCSharp.dll
